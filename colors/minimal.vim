@@ -49,3 +49,4 @@ hi FoldColumn	guifg=#424242		guifg=#424242	ctermfg=black		ctermfg=black
 hi cIf0			guifg=#424242			ctermfg=black
 
 
+hi MatchParen cterm=underline ctermbg=darkgray ctermfg=black guibg=darkgray gui=underline
