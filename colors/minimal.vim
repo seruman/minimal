@@ -50,3 +50,4 @@ hi cIf0			guifg=#424242			ctermfg=black
 
 
 hi MatchParen cterm=underline ctermbg=darkgray ctermfg=black guibg=darkgray gui=underline
+hi LineNr ctermbg=lightgray ctermfg=black guibg=#F4F3F1
