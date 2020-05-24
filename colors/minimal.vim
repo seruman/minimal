@@ -8,7 +8,7 @@ hi Normal		guifg=#424242	ctermfg=black guibg=#F4F3F1
 hi NonText		guifg=#424242	ctermfg=black
 hi comment		guifg=darkgray		ctermfg=darkgray	gui=italic
 hi constant		guifg=#424242		ctermfg=black
-hi string guifg=darkgray ctermfg=darkgray
+hi string guifg=#424242 ctermfg=black
 hi identifier	guifg=#424242		ctermfg=black
 hi statement	guifg=#424242		ctermfg=black	gui=bold cterm=bold
 hi define gui=bold cterm=bold
